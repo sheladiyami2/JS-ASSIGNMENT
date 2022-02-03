@@ -1,0 +1,44 @@
+body{
+    background-image: url(assets/bg.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+}
+#color{
+    color: white;
+}
+#date{
+   margin-left: 10px;
+}
+.wcolor{
+    color: white;
+}
+.green {
+    color:lightgreen;
+}
+.red {
+    color:lightcoral;
+}
+.blue {
+    color:skyblue
+}
+#itemList { font-size: 1.5rem;}
+.show { display: block;}
+.hide { display: none;
+}
+
+.list-group-item1{
+    background-color:rgb(180, 180, 180);
+    margin-top: 1rem;
+}
+.list-group-item2{
+    background-color:rgb(226, 226, 226);
+    padding-left: 2rem;
+
+}
+.checkedtrue
+{
+    
+    text-decoration: line-through;
+}
+
